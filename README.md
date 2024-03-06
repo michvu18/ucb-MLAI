@@ -18,3 +18,5 @@
         b. Building & Grounds Cleaning & Maintenance
         c. Healthcare Practitioners & Technical 
     5. **Time**: Before noon
+
+URL to Notebook: https://github.com/michvu18/ucb-MLAI/blob/main/MVprompt.ipynb
