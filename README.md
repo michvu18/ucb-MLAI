@@ -14,9 +14,9 @@
     2. **Destination**: No urgent place set
     3. **Weather**: Sunny
     4. **Occupation**: 
-        a. Student
-        b. Building & Grounds Cleaning & Maintenance
-        c. Healthcare Practitioners & Technical 
+        - Student
+        - Building & Grounds Cleaning & Maintenance
+        - Healthcare Practitioners & Technical 
     5. **Time**: Before noon
 
 URL to Notebook: https://github.com/michvu18/ucb-MLAI/blob/main/MVprompt.ipynb
